@@ -1,6 +1,6 @@
 # gitgit-demo
 learning github
 
-Name - Roshan Raut
+Name - Roshan Chaurasiya
 <br>
 Location - Delhi
